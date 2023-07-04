@@ -7,11 +7,7 @@ export function Loading() {
         <div className="spinner"></div>
       </div>
 
-      <div className="main-content">
-        <h1>Hello World!</h1>
-        <p>
-          This is a demo Project to show how to add animated loading with React.
-        </p>
+      {/* <div className="main-content">
         <div className="buttons">
           <button className="btn">
             <a href="#">Read Article</a>
@@ -27,7 +23,7 @@ export function Loading() {
           </blockquote>
           - <span className="author">Rollo May</span>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }

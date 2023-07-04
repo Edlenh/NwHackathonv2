@@ -68,7 +68,7 @@ export function Visualization({data, onAddItem, onDeleteItem, onNext, loading}) 
         handleDelete={deleteItem}
       />
       <div id="vis-instructions">
-        Pan and zoom.
+        Each Page Will Display Options that fit your future
       </div>
       
       <div id="vis-add-delete-form">

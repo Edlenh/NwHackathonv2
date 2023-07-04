@@ -4,6 +4,7 @@ import './WelcomePage.css';
 export function WelcomePage({onStart}) {
   return (
     <div className="main">
+      
       <h1>Who  Will  You  Be?
         <div className="roller">
           <span className="rolltext">
@@ -11,6 +12,7 @@ export function WelcomePage({onStart}) {
             DOCTOR<br/>
             ARTIST<br/>
             <span className="role-text">LET'S FIND OUT</span><br/>
+           
           </span>
         </div>
       </h1>
